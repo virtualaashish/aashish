@@ -1,0 +1,111 @@
+body{
+	margin: 0;
+	background-color: #f1f1f1;
+}
+header{
+	
+	color: black;
+	padding: 15px;
+	padding-top: 0;
+	text-align: center;
+	font-size: xx-large;
+	font-family: Segoe Script;
+}
+p{
+	color: black;
+	padding: 50px;
+	padding-bottom: 0;
+	text-align: center;
+	font-size: large;
+	letter-spacing: 1px;
+	
+
+}
+nav{
+	overflow: hidden;
+	padding: 80px;
+	text-align: center;
+	word-spacing: 30px;
+	font-size: large;
+	background: black;
+	opacity: 0.8;
+	height: 0;
+}
+nav a{
+	text-decoration: none;
+	color: lightsteelblue;
+}
+
+nav a:hover{
+	color: azure;
+
+}
+
+
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  
+}
+
+
+h2{
+	color: black;
+	padding: 15px;
+	padding-top: 0;
+	text-align: center;
+	font-size: xx-large;
+	font-family: cursive;
+
+}
+
+div.Gallery{
+
+	margin: 20px;
+	border: 10px solid black;
+	float: left;
+	width: 200px;
+}
+
+div.Gallery:hover{
+	border: 10px solid saddlebrown;
+
+}
+
+div.Gallery img{
+	width: 100%;
+	height: auto;
+
+}
+div.des{
+	font-family: Segoe Script;
+	font-size: smaller;
+}
+input[type=text], seletc, textarea{
+
+	width: 100%;
+	padding: 10px;
+	margin-top: 5px;
+	margin-bottom: 15px;
+	resize: vertical;
+}
+input[type=submit]{
+	background-color: midnightblue;
+	color: white;
+	padding: 12px 20px;
+	cursor: pointer;
+	margin: 5px;
+}
+
+
+div.aboutimg{
+
+	margin: 50px;
+	
+
+
+}
+
+
